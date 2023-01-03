@@ -1,5 +1,5 @@
 <h2> Hi, I'm Jose Manuel <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="./img/spidertocat.png" width="300">
+<img align='right' src="./img/spidertocat.png" width="230">
 
 ```python
 class Jose:
