@@ -1,4 +1,4 @@
-<h2> Hi, I'm Jose Manuel <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Jose Manuel</h2>
 <img align='right' src="./img/spidertocat.png" width="230">
 
 ```python
@@ -6,7 +6,7 @@ class Jose:
     def __init__(self):
         self.username = 'Jmanuel2099'
         self.name = 'Jose Manuel',
-        self.about_me = 'I am a ninth semester student at the University of Caldas and I am interested in learning AI (machine learning and deep learning) and security in software development.',
+        self.about_me = 'I am a systems and computer engineer. I work as a software developer and I am currently learning about Linux and AWS.',
         self.software_development = {
             'backend' : [
                     { 'Python': ['Django', 'FastAPI'] },
